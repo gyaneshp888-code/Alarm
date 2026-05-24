@@ -36,7 +36,7 @@ class AppTheme {
           color: AppColors.textBody,
         ),
       ),
-      cardTheme: CardTheme(
+      cardTheme: CardThemeData(
         color: AppColors.glassOverlay,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(24),

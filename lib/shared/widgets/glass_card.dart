@@ -1,6 +1,5 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:nova_alarm/core/constants/app_colors.dart';
 
 class GlassCard extends StatelessWidget {
   final Widget child;
